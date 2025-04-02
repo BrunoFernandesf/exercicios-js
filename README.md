@@ -4,7 +4,7 @@
 
 01 - Crie uma função que receba dois números e retorne a soma deles.
 
-Selecionar um Elemento e Alterar o Texto
+02 - Selecionar um Elemento e Alterar o Texto
 
 Selecione o elemento <h1> da página e altere seu conteúdo para "Bem-vindo ao meu site".
 

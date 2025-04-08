@@ -6,7 +6,7 @@
 
 02 - Selecionar um Elemento e Alterar o Texto
 
-Selecione o elemento <h1> da página e altere seu conteúdo para "Bem-vindo ao meu site".
+03 - Selecione o elemento <h1> da página e altere seu conteúdo para "Bem-vindo ao meu site".
 
 Verificar se um Número é Par ou Ímpar
 

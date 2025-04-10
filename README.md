@@ -8,7 +8,7 @@
 
 03 - Selecione o elemento <h1> da página e altere seu conteúdo para "Bem-vindo ao meu site".
 
-Verificar se um Número é Par ou Ímpar
+04 - Verificar se um Número é Par ou Ímpar
 
 Crie uma função que receba um número e retorne "Par" ou "Ímpar".
 

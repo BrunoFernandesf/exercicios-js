@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex-05</title>
+</head>
+<body>
+    <h1 class="text">Texto base</h1>
+
+    <script>
+        //05 - Crie uma função que receba um número e retorne "Par" ou "Ímpar".
+        const text = document.querySelector(".text")
+
+        function par_impar(number) {
+            if(number % 2 == 0){
+                alert('O número é par')
+            }
+            else{
+                alert('O número é ímpar')
+            }
+        }
+
+        par_impar(3)
+    </script>
+</body>
+</html>

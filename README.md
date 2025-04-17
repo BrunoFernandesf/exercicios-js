@@ -10,9 +10,9 @@
 
 04 - Verificar se um Número é Par ou Ímpar
 
-Crie uma função que receba um número e retorne "Par" ou "Ímpar".
+05 - Crie uma função que receba um número e retorne "Par" ou "Ímpar".
 
-Alterar Cor de Fundo no DOM
+06 - Alterar Cor de Fundo no DOM
 
 Selecione um elemento com a classe .box e altere sua cor de fundo para lightblue.
 

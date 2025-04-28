@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex-08</title>
+</head>
+<body>
+    <!--Contagem de Caracteres-->
+    <p class="text">Contagem de caracteres</p>
+    <p class="count">Count</p>
+</body>
+
+    <script>
+        const texto = document.querySelector(".text");
+        const count = document.querySelector(".count");
+
+        count.innerHTML = texto.textContent.length;
+    </script>
+</html>

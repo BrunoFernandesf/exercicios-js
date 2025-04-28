@@ -14,9 +14,9 @@
 
 06 - Alterar Cor de Fundo no DOM
 
-Selecione um elemento com a classe .box e altere sua cor de fundo para lightblue.
+07 - Selecione um elemento com a classe .box e altere sua cor de fundo para lightblue.
 
-Contagem de Caracteres
+08 - Contagem de Caracteres
 
 Crie uma função que receba uma string e retorne o número de caracteres dela.
 

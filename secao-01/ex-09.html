@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <label for="frase">Digite uma string:</label><br>
+  <textarea id="frase"></textarea><br>
+
+  <input type="button" onclick="CalcularChar()" value="Calcular">
+
+  <p id="contagem">Contagem de Caracteres: </p>
+
+  <script>
+    function CalcularChar() {
+      const fraseText = document.querySelector("#frase").value;
+      const result = fraseText.length;
+      const cont = document.querySelector("#contagem");
+
+      cont.textContent = "Número de caracteres: " + result;
+      console.log("Número de caracteres:", result);
+    }
+  </script>
+</body>
+</html>

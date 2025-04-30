@@ -18,7 +18,7 @@
 
 08 - Contagem de Caracteres
 
-Crie uma função que receba uma string e retorne o número de caracteres dela.
+09 - Crie uma função que receba uma string e retorne o número de caracteres dela.
 
 Adicionar um Item à Lista
 

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex-11</title>
+</head>
+<body>
+    <!--11 - Crie uma lista de itens (<ul>), e adicione um novo item no final sempre que um botão for clicado-->
+    <ul class="lista">
+        <li>Banana</li>
+        <li>Maça</li>
+        <li>Caju</li>
+    </ul>
+
+    <button onclick="adiciona()">Adicione um Maracujá</button>
+
+    <script>
+        function adiciona(){
+            var ul = document.querySelector(".lista");
+            var li = document.createElement("li");
+
+            li.appendChild(document.createTextNode("Maracujá"));
+            ul.appendChild(li);
+        }
+    </script>
+</body>
+</html>

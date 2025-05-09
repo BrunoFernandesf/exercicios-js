@@ -20,11 +20,11 @@
 
 09 - Crie uma função que receba uma string e retorne o número de caracteres dela.
 
-Adicionar um Item à Lista
+10 - Adicionar um Item à Lista
 
-Crie uma lista de itens (<ul>), e adicione um novo item no final sempre que um botão for clicado.
+11 - Crie uma lista de itens (<ul>), e adicione um novo item no final sempre que um botão for clicado.
 
-Calcular o Fatorial de um Número
+12 - Calcular o Fatorial de um Número
 
 Crie uma função que calcule o fatorial de um número (exemplo: 5! = 5 * 4 * 3 * 2 * 1).
 

@@ -26,7 +26,7 @@
 
 12 - Calcular o Fatorial de um Número
 
-Crie uma função que calcule o fatorial de um número (exemplo: 5! = 5 * 4 * 3 * 2 * 1).
+13 - Crie uma função que calcule o fatorial de um número (exemplo: 5! = 5 * 4 * 3 * 2 * 1).
 
 Remover um Item de uma Lista no DOM
 

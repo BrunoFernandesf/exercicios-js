@@ -28,7 +28,7 @@
 
 13 - Crie uma função que calcule o fatorial de um número (exemplo: 5! = 5 * 4 * 3 * 2 * 1).
 
-Remover um Item de uma Lista no DOM
+14 - Remover um Item de uma Lista no DOM
 
 Crie uma lista (<ul>) com pelo menos três itens. Quando o usuário clicar em um item, ele deve ser removido.
 

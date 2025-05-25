@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex-14</title>
+</head>
+<body>
+    <!--Remover um Item de uma Lista no DOM-->
+    <ul class="lista">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+    <script>
+        let listElem = document.querySelectorAll(".lista li");
+        for(var i = 0; li = listElem[i]; i++){
+            if(i == 2){
+                li.parentNode.removeChild(li);
+            }
+        }
+    </script>
+</body>
+</html>

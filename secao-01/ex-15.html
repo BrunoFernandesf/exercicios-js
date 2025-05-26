@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex-15</title>
+</head>
+<body>
+    <!--Crie uma lista (<ul>) com pelo menos três itens. Quando o usuário clicar em um item, ele deve ser removido.-->
+
+    <ul>
+        <li onclick="deleteItem(this)">Item 1</li>
+        <li onclick="deleteItem(this)">Item 2</li>
+        <li onclick="deleteItem(this)">Item 3</li>
+    </ul>
+
+    <script>
+        function deleteItem(element){
+            element.parentNode.removeChild(element);
+        }
+    </script>
+</body>
+</html>

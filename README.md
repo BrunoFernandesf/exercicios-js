@@ -30,7 +30,7 @@
 
 14 - Remover um Item de uma Lista no DOM
 
-Crie uma lista (<ul>) com pelo menos três itens. Quando o usuário clicar em um item, ele deve ser removido.
+15 - Crie uma lista (<ul>) com pelo menos três itens. Quando o usuário clicar em um item, ele deve ser removido.
 
 Trocar Texto de um Parágrafo
 
